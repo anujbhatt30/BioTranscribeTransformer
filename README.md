@@ -156,6 +156,4 @@ MBA — Artificial Intelligence & Data Science
 
 - GitHub: [@anujbhatt30](https://github.com/anujbhatt30)
 
----
 
-*This project is intended for educational and experimental purposes. Its capabilities depend on the training data, model implementation, and evaluation results.*
