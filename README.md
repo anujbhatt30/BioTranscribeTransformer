@@ -156,10 +156,6 @@ MBA — Artificial Intelligence & Data Science
 
 - GitHub: [@anujbhatt30](https://github.com/anujbhatt30)
 
-## 📄 License
-
-Choose an appropriate open-source license before distributing or reusing the project. Add a `LICENSE` file if you decide to publish it under one.
-
 ---
 
 *This project is intended for educational and experimental purposes. Its capabilities depend on the training data, model implementation, and evaluation results.*
