@@ -154,6 +154,5 @@ This project provides practical experience with:
 
 MBA — Artificial Intelligence & Data Science
 
-- GitHub: [@anujbhatt30](https://github.com/anujbhatt30)
 
 
