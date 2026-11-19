@@ -6,6 +6,8 @@ BioTranscribeTransformer is a deep learning project focused on building and expe
 
 The model contains approximately **4 million parameters** and uses a custom Byte Pair Encoding (BPE) tokenizer to convert text into tokens for training and generation.
 
+---
+
 ## 🚀 Project Highlights
 
 - **Custom Transformer Architecture** — Implements a Transformer-based language model.
@@ -14,6 +16,8 @@ The model contains approximately **4 million parameters** and uses a custom Byte
 - **Autoregressive Modeling** — Designed to learn text patterns and predict subsequent tokens.
 - **Model Experimentation** — Explores model configuration, training, and text-generation behavior.
 - **Lightweight Model** — Approximately 4 million parameters, suitable for experimentation on a personal machine.
+
+---
 
 ## 🧠 How It Works
 
@@ -41,6 +45,8 @@ Generated Text
 4. **Next-token prediction:** Use the learned representations to predict subsequent tokens.
 5. **Text generation:** Generate text autoregressively by predicting tokens step by step.
 
+---
+
 ## 🏗️ Model Architecture
 
 The project is based on the Transformer architecture, which uses self-attention to learn relationships between tokens in a sequence.
@@ -56,6 +62,8 @@ Core components may include:
 
 *The exact number of layers, attention heads, embedding dimensions, and context length should be documented according to your implementation.*
 
+---
+
 ## 🛠️ Tech Stack
 
 - **Language:** Python
@@ -63,6 +71,8 @@ Core components may include:
 - **NLP:** Byte Pair Encoding (BPE), tokenization, language modeling
 - **Tools:** Jupyter Notebook / Python scripts
 - **Version Control:** Git and GitHub
+
+---
 
 ## 📂 Project Structure
 
@@ -78,6 +88,8 @@ BioTranscribe-Transformer/
 ```
 
 *Adjust this structure to match the actual files in your repository.*
+
+---
 
 ## ⚙️ Installation
 
@@ -114,6 +126,8 @@ Otherwise, install the dependencies required by your implementation, including P
 
 Open the relevant notebook or run the project's training or inference script. The exact command depends on the entry point included in the repository.
 
+---
+
 ## 📊 Results and Evaluation
 
 The model has approximately **4 million parameters**.
@@ -128,6 +142,8 @@ Recommended evaluation metrics and experiments include:
 
 Add your actual training curves, evaluation metrics, and generated-text examples here when available. No performance claims are made without measured results.
 
+---
+
 ## 🎯 Learning Objectives
 
 This project provides practical experience with:
@@ -139,6 +155,8 @@ This project provides practical experience with:
 - Exploring autoregressive text generation
 - Debugging model training and evaluating outputs
 
+---
+
 ## 🔮 Future Improvements
 
 - Improve training efficiency and experiment with hyperparameters.
@@ -147,6 +165,8 @@ This project provides practical experience with:
 - Experiment with larger datasets and model configurations.
 - Add reproducible training and inference scripts.
 - Document sample outputs and quantitative evaluation results.
+
+---
 
 ## 👨‍💻 Author
 
